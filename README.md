@@ -12,6 +12,10 @@
 
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/douglasdeoliveira/pokemon-tcg-react.svg">
 
+  <a href="https://app.codacy.com/manual/douglasdeoliveira/pokemon-tcg-react?utm_source=github.com&utm_medium=referral&utm_content=douglasdeoliveira/pokemon-tcg-react&utm_campaign=Badge_Grade_Dashboard">
+    <img alt="Codacy grade" src="https://api.codacy.com/project/badge/Grade/90bbd075cb8048b9af1e038008ee3808">
+  </a>
+
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/douglasdeoliveira/pokemon-tcg-react.svg">
 
   <a href="https://github.com/douglasdeoliveira/pokemon-tcg-react/commits/master">
