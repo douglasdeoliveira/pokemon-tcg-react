@@ -33,6 +33,12 @@
 
 ![App Screenshot](.github/screenshot.png)
 
+<p align="center">
+  <a href="https://jovial-mcclintock-2e4c86.netlify.app/" target="_blank">
+    <img alt="Demo on Netlify" src=".github/btn-demo.png">
+  </a>
+</p>
+
 ## :rocket: Technologies
 
 This project was developed with the following technologies:
