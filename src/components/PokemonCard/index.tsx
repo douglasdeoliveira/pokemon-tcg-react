@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { memo } from 'react';
 import { Link } from 'react-router-dom';
 
 import { Container } from './styles';
@@ -15,7 +15,7 @@ interface PokemonCardProps {
 const PokemonCard: React.FC<PokemonCardProps> = ({ card }) => {
   return (
     <Container>
-      <Link to="/card">
+      <Link to={`/card/${card.id}`}>
         <div className="card__header">
           <img src={card.imageUrl} alt={`Card ${card.name}`} />
         </div>
@@ -37,4 +37,4 @@ const PokemonCard: React.FC<PokemonCardProps> = ({ card }) => {
   );
 };
 
-export default PokemonCard;
+export default memo(PokemonCard);
