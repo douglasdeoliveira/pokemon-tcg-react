@@ -48,7 +48,7 @@
 This project was developed with the following technologies:
 
 - [ReactJS](https://reactjs.org/)
-- [React router](https://reacttraining.com/react-router/)
+- [React Router](https://reactrouter.com/)
 - [Axios](https://github.com/axios/axios)
 - [Styled Components](https://react.i18next.com/)
 - [Flexboxgrid](http://flexboxgrid.com/)
